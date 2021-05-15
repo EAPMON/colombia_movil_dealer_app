@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "colombia_movil_dealer_app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

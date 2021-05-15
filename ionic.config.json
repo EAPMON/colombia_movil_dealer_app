@@ -1,0 +1,7 @@
+{
+  "name": "colombia_movil_dealer_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
